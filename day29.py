@@ -1,0 +1,10 @@
+nama = input("nama : ")
+nim = input("nim : ")
+kelas = input("kelas : ")
+pesan = input("sepatah kata untuk coder : ")
+
+print("====================")
+print("nama : ",nama)
+print("nim : ",nim)
+print("kelas : ",kelas)
+print("sepatah kata : ",pesan)
